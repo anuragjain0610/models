@@ -1,0 +1,26 @@
+<annotation>
+	<folder>license</folder>
+	<filename>4licensecrop.jpg</filename>
+	<path>/home/agjn/Desktop/Freezon labs/KYC task/license/4licensecrop.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2076</width>
+		<height>1332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>11</ymin>
+			<xmax>2049</xmax>
+			<ymax>1286</ymax>
+		</bndbox>
+	</object>
+</annotation>

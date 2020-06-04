@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pan</folder>
+	<filename>8pancrop.jpg</filename>
+	<path>/home/agjn/Desktop/Freezon labs/KYC task/pan/8pancrop.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2038</width>
+		<height>1377</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pan</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>62</ymin>
+			<xmax>2038</xmax>
+			<ymax>1377</ymax>
+		</bndbox>
+	</object>
+</annotation>
