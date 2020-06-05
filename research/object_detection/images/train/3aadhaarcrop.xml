@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>3aadhaarcrop.jpg</filename>
+	<path>/home/agjn/Desktop/Freezon labs/KYC task/old_test_trsin/train/3aadhaarcrop.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>191</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adhaar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>15</ymin>
+			<xmax>261</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

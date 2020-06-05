@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>3pancrop.jpg</filename>
+	<path>/home/agjn/Desktop/Freezon labs/KYC task/old_test_trsin/train/3pancrop.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>559</width>
+		<height>382</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>14</ymin>
+			<xmax>543</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>
