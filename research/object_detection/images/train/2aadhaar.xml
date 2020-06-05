@@ -1,13 +1,13 @@
 <annotation>
-	<folder>aadhaar</folder>
+	<folder>train</folder>
 	<filename>2aadhaar.jpg</filename>
-	<path>/home/agjn/Desktop/Freezon labs/KYC task/ImageToJSON/testcases/aadhaar/2aadhaar.jpg</path>
+	<path>/home/agjn/Desktop/Freezon labs/KYC task/models/research/object_detection/images/train/2aadhaar.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2480</width>
-		<height>3507</height>
+		<width>620</width>
+		<height>877</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>992</xmin>
-			<ymin>671</ymin>
-			<xmax>1992</xmax>
-			<ymax>1329</ymax>
+			<xmin>245</xmin>
+			<ymin>169</ymin>
+			<xmax>501</xmax>
+			<ymax>332</ymax>
 		</bndbox>
 	</object>
 </annotation>

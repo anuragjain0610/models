@@ -1,13 +1,13 @@
 <annotation>
-	<folder>license</folder>
+	<folder>train</folder>
 	<filename>3license.jpg</filename>
-	<path>/home/agjn/Desktop/Freezon labs/KYC task/ImageToJSON/testcases/license/3license.jpg</path>
+	<path>/home/agjn/Desktop/Freezon labs/KYC task/models/research/object_detection/images/train/3license.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4960</width>
-		<height>7014</height>
+		<width>1240</width>
+		<height>1754</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1668</xmin>
-			<ymin>1278</ymin>
-			<xmax>3737</xmax>
-			<ymax>2588</ymax>
+			<xmin>419</xmin>
+			<ymin>319</ymin>
+			<xmax>936</xmax>
+			<ymax>650</ymax>
 		</bndbox>
 	</object>
 </annotation>

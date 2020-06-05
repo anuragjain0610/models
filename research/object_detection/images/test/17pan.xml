@@ -1,13 +1,13 @@
 <annotation>
-	<folder>pan</folder>
+	<folder>test</folder>
 	<filename>17pan.jpg</filename>
-	<path>/home/agjn/Desktop/Freezon labs/KYC task/ImageToJSON/testcases/pan/17pan.jpg</path>
+	<path>/home/agjn/Desktop/Freezon labs/KYC task/models/research/object_detection/images/test/17pan.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4960</width>
-		<height>7014</height>
+		<width>1240</width>
+		<height>1754</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1905</xmin>
-			<ymin>1067</ymin>
-			<xmax>3953</xmax>
-			<ymax>2367</ymax>
+			<xmin>477</xmin>
+			<ymin>265</ymin>
+			<xmax>985</xmax>
+			<ymax>592</ymax>
 		</bndbox>
 	</object>
 </annotation>
