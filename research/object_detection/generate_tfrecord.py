@@ -29,9 +29,9 @@ FLAGS = flags.FLAGS
 
 # TO-DO replace this with label map
 def class_text_to_int(row_label):
-    if row_label == 'Adhaar':
+    if row_label == 'adhaar':
         return 1
-    elif row_label == 'Pan':
+    elif row_label == 'pan':
         return 2
     elif row_label == 'DL':
         return 3

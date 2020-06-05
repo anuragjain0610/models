@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pan</folder>
+	<filename>17pan.jpg</filename>
+	<path>/home/agjn/Desktop/Freezon labs/KYC task/ImageToJSON/testcases/pan/17pan.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4960</width>
+		<height>7014</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1905</xmin>
+			<ymin>1067</ymin>
+			<xmax>3953</xmax>
+			<ymax>2367</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>aadhaar</folder>
+	<filename>1aadhaar.jpg</filename>
+	<path>/home/agjn/Desktop/Freezon labs/KYC task/ImageToJSON/testcases/aadhaar/1aadhaar.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2480</width>
+		<height>3507</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adhaar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>960</xmin>
+			<ymin>724</ymin>
+			<xmax>1981</xmax>
+			<ymax>1397</ymax>
+		</bndbox>
+	</object>
+</annotation>

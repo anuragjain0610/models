@@ -1,0 +1,26 @@
+<annotation>
+	<folder>license</folder>
+	<filename>2license.jpg</filename>
+	<path>/home/agjn/Desktop/Freezon labs/KYC task/ImageToJSON/testcases/license/2license.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4960</width>
+		<height>7014</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1799</xmin>
+			<ymin>1247</ymin>
+			<xmax>3837</xmax>
+			<ymax>2570</ymax>
+		</bndbox>
+	</object>
+</annotation>
